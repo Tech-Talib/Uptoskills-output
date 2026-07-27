@@ -1,9 +1,20 @@
-# Uptoskills-output
-This repository is used to maintain and review the outputs of all internship tasks. Every submission will be reviewed by the Team Lead (TL) before it is merged into the repository. Please read and follow the guidelines below.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-You may upload any files that are part of your task output, including but not limited to:
-Jupyter Notebooks,Images,Videos,CSV files,PDF reports,Text files.
-Other output files specifically required for your assigned task
-Upload only files that are necessary to demonstrate your work. Avoid unnecessary or duplicate files.
-Please keep your task files organized. A recommended structure is:
-Direct pushes to the main branch are not allowed.Every submission requires TL review and approval.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/65d913e6-d854-4206-8f0d-92fc141cebe3
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
