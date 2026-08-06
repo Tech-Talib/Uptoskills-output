@@ -1,0 +1,373 @@
+timestamp,event_id,shelf_name,event_type,item_count,frame_number,evidence_filename,details
+2026-07-26 21:18:00,Upper_Shelf_INITIAL_STOCK_0,Upper_Shelf,INITIAL_STOCK,0,0,shelf_Upper_Shelf_INITIAL_STOCK_20260726_211800_frame_0.jpg,Initial stock level: 0 items.
+2026-07-26 21:18:00,Upper_Shelf_EMPTY_0,Upper_Shelf,EMPTY,0,0,shelf_Upper_Shelf_EMPTY_20260726_211800_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-26 21:18:00,Lower_Shelf_INITIAL_STOCK_0,Lower_Shelf,INITIAL_STOCK,0,0,shelf_Lower_Shelf_INITIAL_STOCK_20260726_211800_frame_0.jpg,Initial stock level: 0 items.
+2026-07-26 21:18:00,Lower_Shelf_EMPTY_0,Lower_Shelf,EMPTY,0,0,shelf_Lower_Shelf_EMPTY_20260726_211800_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-26 21:18:01,Upper_Shelf_LOW_STOCK_12,Upper_Shelf,LOW_STOCK,2,12,shelf_Upper_Shelf_LOW_STOCK_20260726_211801_frame_12.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-26 21:18:03,Lower_Shelf_CUSTOMER_INTERACTION_37,Lower_Shelf,CUSTOMER_INTERACTION,0,37,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211803_frame_37.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:03,Upper_Shelf_NORMAL_38,Upper_Shelf,NORMAL,4,38,shelf_Upper_Shelf_NORMAL_20260726_211803_frame_38.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:03,Upper_Shelf_FULLY_STOCKED_41,Upper_Shelf,FULLY_STOCKED,6,41,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211803_frame_41.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:03,Upper_Shelf_NORMAL_42,Upper_Shelf,NORMAL,5,42,shelf_Upper_Shelf_NORMAL_20260726_211803_frame_42.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:03,Upper_Shelf_FULLY_STOCKED_47,Upper_Shelf,FULLY_STOCKED,6,47,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211803_frame_47.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:03,Upper_Shelf_CUSTOMER_INTERACTION_48,Upper_Shelf,CUSTOMER_INTERACTION,6,48,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211803_frame_48.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:04,Upper_Shelf_NORMAL_55,Upper_Shelf,NORMAL,5,55,shelf_Upper_Shelf_NORMAL_20260726_211804_frame_55.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:04,Upper_Shelf_LOW_STOCK_63,Upper_Shelf,LOW_STOCK,2,63,shelf_Upper_Shelf_LOW_STOCK_20260726_211804_frame_63.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-26 21:18:04,Upper_Shelf_FULLY_STOCKED_65,Upper_Shelf,FULLY_STOCKED,7,65,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211804_frame_65.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 7 items.
+2026-07-26 21:18:05,Upper_Shelf_NORMAL_81,Upper_Shelf,NORMAL,5,81,shelf_Upper_Shelf_NORMAL_20260726_211805_frame_81.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:06,Upper_Shelf_LOW_STOCK_88,Upper_Shelf,LOW_STOCK,3,88,shelf_Upper_Shelf_LOW_STOCK_20260726_211806_frame_88.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:06,Upper_Shelf_EMPTY_89,Upper_Shelf,EMPTY,0,89,shelf_Upper_Shelf_EMPTY_20260726_211806_frame_89.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:18:07,Lower_Shelf_CUSTOMER_INTERACTION_END_106,Lower_Shelf,CUSTOMER_INTERACTION_END,0,106,shelf_Lower_Shelf_CUSTOMER_INTERACTION_END_20260726_211807_frame_106.jpg,Customer left shelf. No stock levels changed.
+2026-07-26 21:18:08,Lower_Shelf_LOW_STOCK_124,Lower_Shelf,LOW_STOCK,1,124,shelf_Lower_Shelf_LOW_STOCK_20260726_211808_frame_124.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:18:09,Upper_Shelf_LOW_STOCK_144,Upper_Shelf,LOW_STOCK,1,144,shelf_Upper_Shelf_LOW_STOCK_20260726_211809_frame_144.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:18:09,Lower_Shelf_EMPTY_147,Lower_Shelf,EMPTY,0,147,shelf_Lower_Shelf_EMPTY_20260726_211809_frame_147.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:18:10,Upper_Shelf_NORMAL_148,Upper_Shelf,NORMAL,4,148,shelf_Upper_Shelf_NORMAL_20260726_211810_frame_148.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:10,Upper_Shelf_FULLY_STOCKED_150,Upper_Shelf,FULLY_STOCKED,11,150,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211810_frame_150.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 11 items.
+2026-07-26 21:18:10,Lower_Shelf_LOW_STOCK_150,Lower_Shelf,LOW_STOCK,2,150,shelf_Lower_Shelf_LOW_STOCK_20260726_211810_frame_150.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-26 21:18:10,Lower_Shelf_NORMAL_156,Lower_Shelf,NORMAL,4,156,shelf_Lower_Shelf_NORMAL_20260726_211810_frame_156.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:10,Lower_Shelf_FULLY_STOCKED_161,Lower_Shelf,FULLY_STOCKED,6,161,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211810_frame_161.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:11,Upper_Shelf_STOCK_RESTOCKING_170,Upper_Shelf,STOCK_RESTOCKING,27,170,shelf_Upper_Shelf_STOCK_RESTOCKING_20260726_211811_frame_170.jpg,Stock replenished from 6 to 27 items.
+2026-07-26 21:18:14,Upper_Shelf_CUSTOMER_INTERACTION_209,Upper_Shelf,CUSTOMER_INTERACTION,23,209,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211814_frame_209.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:14,Lower_Shelf_CUSTOMER_INTERACTION_209,Lower_Shelf,CUSTOMER_INTERACTION,13,209,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211814_frame_209.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:17,Lower_Shelf_NORMAL_266,Lower_Shelf,NORMAL,5,266,shelf_Lower_Shelf_NORMAL_20260726_211817_frame_266.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:17,Upper_Shelf_LOW_STOCK_269,Upper_Shelf,LOW_STOCK,3,269,shelf_Upper_Shelf_LOW_STOCK_20260726_211817_frame_269.jpg,Stock transitioned from FULLY_STOCKED to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:17,Lower_Shelf_EMPTY_269,Lower_Shelf,EMPTY,0,269,shelf_Lower_Shelf_EMPTY_20260726_211817_frame_269.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-26 21:18:17,Upper_Shelf_EMPTY_270,Upper_Shelf,EMPTY,0,270,shelf_Upper_Shelf_EMPTY_20260726_211817_frame_270.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:18:18,Upper_Shelf_STOCK_DEPLETION_289,Upper_Shelf,STOCK_DEPLETION,0,289,shelf_Upper_Shelf_STOCK_DEPLETION_20260726_211818_frame_289.jpg,Stock decreased from 23 to 0 items.
+2026-07-26 21:18:18,Lower_Shelf_STOCK_DEPLETION_289,Lower_Shelf,STOCK_DEPLETION,0,289,shelf_Lower_Shelf_STOCK_DEPLETION_20260726_211818_frame_289.jpg,Stock decreased from 13 to 0 items.
+2026-07-26 21:18:21,Upper_Shelf_LOW_STOCK_324,Upper_Shelf,LOW_STOCK,3,324,shelf_Upper_Shelf_LOW_STOCK_20260726_211821_frame_324.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:21,Upper_Shelf_NORMAL_325,Upper_Shelf,NORMAL,4,325,shelf_Upper_Shelf_NORMAL_20260726_211821_frame_325.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:21,Upper_Shelf_FULLY_STOCKED_327,Upper_Shelf,FULLY_STOCKED,6,327,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211821_frame_327.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:21,Upper_Shelf_CUSTOMER_INTERACTION_328,Upper_Shelf,CUSTOMER_INTERACTION,7,328,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211821_frame_328.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:21,Lower_Shelf_CUSTOMER_INTERACTION_328,Lower_Shelf,CUSTOMER_INTERACTION,1,328,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211821_frame_328.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:21,Lower_Shelf_LOW_STOCK_328,Lower_Shelf,LOW_STOCK,1,328,shelf_Lower_Shelf_LOW_STOCK_20260726_211821_frame_328.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:18:22,Lower_Shelf_NORMAL_348,Lower_Shelf,NORMAL,4,348,shelf_Lower_Shelf_NORMAL_20260726_211822_frame_348.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:23,Lower_Shelf_FULLY_STOCKED_354,Lower_Shelf,FULLY_STOCKED,6,354,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211823_frame_354.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:23,Lower_Shelf_NORMAL_363,Lower_Shelf,NORMAL,5,363,shelf_Lower_Shelf_NORMAL_20260726_211823_frame_363.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:24,Lower_Shelf_LOW_STOCK_375,Lower_Shelf,LOW_STOCK,3,375,shelf_Lower_Shelf_LOW_STOCK_20260726_211824_frame_375.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:25,Lower_Shelf_NORMAL_385,Lower_Shelf,NORMAL,5,385,shelf_Lower_Shelf_NORMAL_20260726_211825_frame_385.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 5 items.
+2026-07-26 21:18:25,Lower_Shelf_LOW_STOCK_387,Lower_Shelf,LOW_STOCK,3,387,shelf_Lower_Shelf_LOW_STOCK_20260726_211825_frame_387.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:25,Upper_Shelf_NORMAL_388,Upper_Shelf,NORMAL,4,388,shelf_Upper_Shelf_NORMAL_20260726_211825_frame_388.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 4 items.
+2026-07-26 21:18:25,Lower_Shelf_NORMAL_389,Lower_Shelf,NORMAL,4,389,shelf_Lower_Shelf_NORMAL_20260726_211825_frame_389.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:26,Lower_Shelf_LOW_STOCK_411,Lower_Shelf,LOW_STOCK,2,411,shelf_Lower_Shelf_LOW_STOCK_20260726_211826_frame_411.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-26 21:18:26,Upper_Shelf_FULLY_STOCKED_418,Upper_Shelf,FULLY_STOCKED,7,418,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211826_frame_418.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 7 items.
+2026-07-26 21:18:27,Upper_Shelf_CUSTOMER_INTERACTION_END_433,Upper_Shelf,CUSTOMER_INTERACTION_END,7,433,shelf_Upper_Shelf_CUSTOMER_INTERACTION_END_20260726_211827_frame_433.jpg,Customer left shelf. No stock levels changed.
+2026-07-26 21:18:28,Upper_Shelf_NORMAL_443,Upper_Shelf,NORMAL,5,443,shelf_Upper_Shelf_NORMAL_20260726_211828_frame_443.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:18:29,Upper_Shelf_LOW_STOCK_455,Upper_Shelf,LOW_STOCK,2,455,shelf_Upper_Shelf_LOW_STOCK_20260726_211829_frame_455.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-26 21:18:29,Lower_Shelf_NORMAL_455,Lower_Shelf,NORMAL,5,455,shelf_Lower_Shelf_NORMAL_20260726_211829_frame_455.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 5 items.
+2026-07-26 21:18:29,Upper_Shelf_CUSTOMER_INTERACTION_457,Upper_Shelf,CUSTOMER_INTERACTION,7,457,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211829_frame_457.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:29,Upper_Shelf_FULLY_STOCKED_457,Upper_Shelf,FULLY_STOCKED,7,457,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211829_frame_457.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 7 items.
+2026-07-26 21:18:29,Lower_Shelf_FULLY_STOCKED_458,Lower_Shelf,FULLY_STOCKED,6,458,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211829_frame_458.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:18:29,Lower_Shelf_NORMAL_470,Lower_Shelf,NORMAL,4,470,shelf_Lower_Shelf_NORMAL_20260726_211829_frame_470.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 4 items.
+2026-07-26 21:18:29,Lower_Shelf_LOW_STOCK_471,Lower_Shelf,LOW_STOCK,1,471,shelf_Lower_Shelf_LOW_STOCK_20260726_211829_frame_471.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 1 items.
+2026-07-26 21:18:31,Lower_Shelf_EMPTY_490,Lower_Shelf,EMPTY,0,490,shelf_Lower_Shelf_EMPTY_20260726_211831_frame_490.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:18:31,Upper_Shelf_NORMAL_492,Upper_Shelf,NORMAL,4,492,shelf_Upper_Shelf_NORMAL_20260726_211831_frame_492.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 4 items.
+2026-07-26 21:18:31,Upper_Shelf_LOW_STOCK_493,Upper_Shelf,LOW_STOCK,3,493,shelf_Upper_Shelf_LOW_STOCK_20260726_211831_frame_493.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:32,Upper_Shelf_STOCK_DEPLETION_513,Upper_Shelf,STOCK_DEPLETION,3,513,shelf_Upper_Shelf_STOCK_DEPLETION_20260726_211832_frame_513.jpg,Stock decreased from 7 to 3 items.
+2026-07-26 21:18:32,Lower_Shelf_STOCK_DEPLETION_513,Lower_Shelf,STOCK_DEPLETION,0,513,shelf_Lower_Shelf_STOCK_DEPLETION_20260726_211832_frame_513.jpg,Stock decreased from 1 to 0 items.
+2026-07-26 21:18:34,Upper_Shelf_CUSTOMER_INTERACTION_556,Upper_Shelf,CUSTOMER_INTERACTION,2,556,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211834_frame_556.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:34,Lower_Shelf_CUSTOMER_INTERACTION_556,Lower_Shelf,CUSTOMER_INTERACTION,0,556,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211834_frame_556.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:18:34,Upper_Shelf_FULLY_STOCKED_558,Upper_Shelf,FULLY_STOCKED,9,558,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211834_frame_558.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 9 items.
+2026-07-26 21:18:34,Lower_Shelf_LOW_STOCK_558,Lower_Shelf,LOW_STOCK,3,558,shelf_Lower_Shelf_LOW_STOCK_20260726_211834_frame_558.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 3 items.
+2026-07-26 21:18:35,Lower_Shelf_NORMAL_564,Lower_Shelf,NORMAL,4,564,shelf_Lower_Shelf_NORMAL_20260726_211835_frame_564.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:18:36,Lower_Shelf_FULLY_STOCKED_589,Lower_Shelf,FULLY_STOCKED,6,589,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211836_frame_589.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:08,Upper_Shelf_INITIAL_STOCK_0,Upper_Shelf,INITIAL_STOCK,0,0,shelf_Upper_Shelf_INITIAL_STOCK_20260726_211908_frame_0.jpg,Initial stock level: 0 items.
+2026-07-26 21:19:08,Upper_Shelf_EMPTY_0,Upper_Shelf,EMPTY,0,0,shelf_Upper_Shelf_EMPTY_20260726_211908_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-26 21:19:08,Lower_Shelf_INITIAL_STOCK_0,Lower_Shelf,INITIAL_STOCK,0,0,shelf_Lower_Shelf_INITIAL_STOCK_20260726_211908_frame_0.jpg,Initial stock level: 0 items.
+2026-07-26 21:19:08,Lower_Shelf_EMPTY_0,Lower_Shelf,EMPTY,0,0,shelf_Lower_Shelf_EMPTY_20260726_211908_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-26 21:19:11,Upper_Shelf_CUSTOMER_INTERACTION_61,Upper_Shelf,CUSTOMER_INTERACTION,0,61,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211911_frame_61.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:19:14,Upper_Shelf_LOW_STOCK_103,Upper_Shelf,LOW_STOCK,1,103,shelf_Upper_Shelf_LOW_STOCK_20260726_211914_frame_103.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:14,Lower_Shelf_FULLY_STOCKED_103,Lower_Shelf,FULLY_STOCKED,10,103,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211914_frame_103.jpg,Stock transitioned from EMPTY to FULLY_STOCKED. Count: 10 items.
+2026-07-26 21:19:14,Upper_Shelf_FULLY_STOCKED_112,Upper_Shelf,FULLY_STOCKED,8,112,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211914_frame_112.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 8 items.
+2026-07-26 21:19:16,Upper_Shelf_STOCK_RESTOCKING_138,Upper_Shelf,STOCK_RESTOCKING,9,138,shelf_Upper_Shelf_STOCK_RESTOCKING_20260726_211916_frame_138.jpg,Stock replenished from 0 to 9 items.
+2026-07-26 21:19:17,Upper_Shelf_CUSTOMER_INTERACTION_155,Upper_Shelf,CUSTOMER_INTERACTION,14,155,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211917_frame_155.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:19:17,Lower_Shelf_CUSTOMER_INTERACTION_155,Lower_Shelf,CUSTOMER_INTERACTION,12,155,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211917_frame_155.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:19:17,Upper_Shelf_NORMAL_167,Upper_Shelf,NORMAL,5,167,shelf_Upper_Shelf_NORMAL_20260726_211917_frame_167.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:17,Lower_Shelf_LOW_STOCK_168,Lower_Shelf,LOW_STOCK,3,168,shelf_Lower_Shelf_LOW_STOCK_20260726_211917_frame_168.jpg,Stock transitioned from FULLY_STOCKED to LOW_STOCK. Count: 3 items.
+2026-07-26 21:19:18,Upper_Shelf_EMPTY_170,Upper_Shelf,EMPTY,0,170,shelf_Upper_Shelf_EMPTY_20260726_211918_frame_170.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-26 21:19:18,Lower_Shelf_EMPTY_170,Lower_Shelf,EMPTY,0,170,shelf_Lower_Shelf_EMPTY_20260726_211918_frame_170.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:19:21,Upper_Shelf_FULLY_STOCKED_225,Upper_Shelf,FULLY_STOCKED,10,225,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211921_frame_225.jpg,Stock transitioned from EMPTY to FULLY_STOCKED. Count: 10 items.
+2026-07-26 21:19:21,Lower_Shelf_NORMAL_225,Lower_Shelf,NORMAL,5,225,shelf_Lower_Shelf_NORMAL_20260726_211921_frame_225.jpg,Stock transitioned from EMPTY to NORMAL. Count: 5 items.
+2026-07-26 21:19:21,Lower_Shelf_FULLY_STOCKED_228,Lower_Shelf,FULLY_STOCKED,6,228,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211921_frame_228.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:24,Lower_Shelf_NORMAL_282,Lower_Shelf,NORMAL,5,282,shelf_Lower_Shelf_NORMAL_20260726_211924_frame_282.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:24,Lower_Shelf_LOW_STOCK_288,Lower_Shelf,LOW_STOCK,3,288,shelf_Lower_Shelf_LOW_STOCK_20260726_211924_frame_288.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:19:24,Upper_Shelf_EMPTY_291,Upper_Shelf,EMPTY,0,291,shelf_Upper_Shelf_EMPTY_20260726_211924_frame_291.jpg,Stock transitioned from FULLY_STOCKED to EMPTY. Count: 0 items.
+2026-07-26 21:19:24,Lower_Shelf_EMPTY_291,Lower_Shelf,EMPTY,0,291,shelf_Lower_Shelf_EMPTY_20260726_211924_frame_291.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:19:26,Upper_Shelf_STOCK_DEPLETION_311,Upper_Shelf,STOCK_DEPLETION,0,311,shelf_Upper_Shelf_STOCK_DEPLETION_20260726_211926_frame_311.jpg,Stock decreased from 14 to 0 items.
+2026-07-26 21:19:26,Lower_Shelf_STOCK_DEPLETION_311,Lower_Shelf,STOCK_DEPLETION,0,311,shelf_Lower_Shelf_STOCK_DEPLETION_20260726_211926_frame_311.jpg,Stock decreased from 12 to 0 items.
+2026-07-26 21:19:27,Upper_Shelf_CUSTOMER_INTERACTION_332,Upper_Shelf,CUSTOMER_INTERACTION,0,332,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_211927_frame_332.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:19:27,Lower_Shelf_CUSTOMER_INTERACTION_332,Lower_Shelf,CUSTOMER_INTERACTION,0,332,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_211927_frame_332.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:19:27,Lower_Shelf_LOW_STOCK_335,Lower_Shelf,LOW_STOCK,1,335,shelf_Lower_Shelf_LOW_STOCK_20260726_211927_frame_335.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:27,Lower_Shelf_NORMAL_339,Lower_Shelf,NORMAL,4,339,shelf_Lower_Shelf_NORMAL_20260726_211927_frame_339.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:19:27,Lower_Shelf_FULLY_STOCKED_340,Lower_Shelf,FULLY_STOCKED,9,340,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211927_frame_340.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 9 items.
+2026-07-26 21:19:27,Upper_Shelf_LOW_STOCK_341,Upper_Shelf,LOW_STOCK,2,341,shelf_Upper_Shelf_LOW_STOCK_20260726_211927_frame_341.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-26 21:19:27,Upper_Shelf_FULLY_STOCKED_342,Upper_Shelf,FULLY_STOCKED,12,342,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211927_frame_342.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 12 items.
+2026-07-26 21:19:32,Lower_Shelf_NORMAL_429,Lower_Shelf,NORMAL,5,429,shelf_Lower_Shelf_NORMAL_20260726_211932_frame_429.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:33,Lower_Shelf_FULLY_STOCKED_436,Lower_Shelf,FULLY_STOCKED,6,436,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211933_frame_436.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:33,Lower_Shelf_NORMAL_439,Lower_Shelf,NORMAL,5,439,shelf_Lower_Shelf_NORMAL_20260726_211933_frame_439.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:33,Lower_Shelf_FULLY_STOCKED_445,Lower_Shelf,FULLY_STOCKED,6,445,shelf_Lower_Shelf_FULLY_STOCKED_20260726_211933_frame_445.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:34,Lower_Shelf_NORMAL_447,Lower_Shelf,NORMAL,5,447,shelf_Lower_Shelf_NORMAL_20260726_211934_frame_447.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:34,Upper_Shelf_LOW_STOCK_452,Upper_Shelf,LOW_STOCK,1,452,shelf_Upper_Shelf_LOW_STOCK_20260726_211934_frame_452.jpg,Stock transitioned from FULLY_STOCKED to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:34,Lower_Shelf_LOW_STOCK_452,Lower_Shelf,LOW_STOCK,1,452,shelf_Lower_Shelf_LOW_STOCK_20260726_211934_frame_452.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:34,Upper_Shelf_EMPTY_453,Upper_Shelf,EMPTY,0,453,shelf_Upper_Shelf_EMPTY_20260726_211934_frame_453.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:19:35,Upper_Shelf_LOW_STOCK_464,Upper_Shelf,LOW_STOCK,1,464,shelf_Upper_Shelf_LOW_STOCK_20260726_211934_frame_464.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:36,Upper_Shelf_NORMAL_484,Upper_Shelf,NORMAL,4,484,shelf_Upper_Shelf_NORMAL_20260726_211936_frame_484.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:19:36,Lower_Shelf_EMPTY_485,Lower_Shelf,EMPTY,0,485,shelf_Lower_Shelf_EMPTY_20260726_211936_frame_485.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:19:36,Upper_Shelf_LOW_STOCK_492,Upper_Shelf,LOW_STOCK,3,492,shelf_Upper_Shelf_LOW_STOCK_20260726_211936_frame_492.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:19:37,Upper_Shelf_EMPTY_506,Upper_Shelf,EMPTY,0,506,shelf_Upper_Shelf_EMPTY_20260726_211937_frame_506.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:19:37,Upper_Shelf_LOW_STOCK_507,Upper_Shelf,LOW_STOCK,1,507,shelf_Upper_Shelf_LOW_STOCK_20260726_211937_frame_507.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:37,Upper_Shelf_NORMAL_509,Upper_Shelf,NORMAL,4,509,shelf_Upper_Shelf_NORMAL_20260726_211937_frame_509.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:19:38,Upper_Shelf_LOW_STOCK_524,Upper_Shelf,LOW_STOCK,3,524,shelf_Upper_Shelf_LOW_STOCK_20260726_211938_frame_524.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:19:38,Lower_Shelf_LOW_STOCK_532,Lower_Shelf,LOW_STOCK,1,532,shelf_Lower_Shelf_LOW_STOCK_20260726_211938_frame_532.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:19:40,Upper_Shelf_NORMAL_559,Upper_Shelf,NORMAL,4,559,shelf_Upper_Shelf_NORMAL_20260726_211940_frame_559.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:19:40,Lower_Shelf_NORMAL_561,Lower_Shelf,NORMAL,4,561,shelf_Lower_Shelf_NORMAL_20260726_211940_frame_561.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-26 21:19:40,Upper_Shelf_FULLY_STOCKED_562,Upper_Shelf,FULLY_STOCKED,6,562,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211940_frame_562.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:40,Upper_Shelf_NORMAL_563,Upper_Shelf,NORMAL,5,563,shelf_Upper_Shelf_NORMAL_20260726_211940_frame_563.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:40,Upper_Shelf_FULLY_STOCKED_564,Upper_Shelf,FULLY_STOCKED,6,564,shelf_Upper_Shelf_FULLY_STOCKED_20260726_211940_frame_564.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:19:40,Upper_Shelf_STOCK_RESTOCKING_567,Upper_Shelf,STOCK_RESTOCKING,6,567,shelf_Upper_Shelf_STOCK_RESTOCKING_20260726_211940_frame_567.jpg,Stock replenished from 0 to 6 items.
+2026-07-26 21:19:40,Lower_Shelf_STOCK_RESTOCKING_567,Lower_Shelf,STOCK_RESTOCKING,4,567,shelf_Lower_Shelf_STOCK_RESTOCKING_20260726_211940_frame_567.jpg,Stock replenished from 0 to 4 items.
+2026-07-26 21:19:41,Upper_Shelf_NORMAL_571,Upper_Shelf,NORMAL,5,571,shelf_Upper_Shelf_NORMAL_20260726_211941_frame_571.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-26 21:19:41,Lower_Shelf_LOW_STOCK_577,Lower_Shelf,LOW_STOCK,3,577,shelf_Lower_Shelf_LOW_STOCK_20260726_211941_frame_577.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:19:41,Upper_Shelf_LOW_STOCK_580,Upper_Shelf,LOW_STOCK,3,580,shelf_Upper_Shelf_LOW_STOCK_20260726_211941_frame_580.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-26 21:20:02,Upper_Shelf_CUSTOMER_INTERACTION_0,Upper_Shelf,CUSTOMER_INTERACTION,0,0,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_212002_frame_0.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:20:02,Upper_Shelf_INITIAL_STOCK_0,Upper_Shelf,INITIAL_STOCK,0,0,shelf_Upper_Shelf_INITIAL_STOCK_20260726_212002_frame_0.jpg,Initial stock level: 0 items.
+2026-07-26 21:20:02,Upper_Shelf_EMPTY_0,Upper_Shelf,EMPTY,0,0,shelf_Upper_Shelf_EMPTY_20260726_212002_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-26 21:20:02,Lower_Shelf_CUSTOMER_INTERACTION_0,Lower_Shelf,CUSTOMER_INTERACTION,2,0,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_212002_frame_0.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:20:02,Lower_Shelf_INITIAL_STOCK_0,Lower_Shelf,INITIAL_STOCK,2,0,shelf_Lower_Shelf_INITIAL_STOCK_20260726_212002_frame_0.jpg,Initial stock level: 2 items.
+2026-07-26 21:20:02,Lower_Shelf_LOW_STOCK_0,Lower_Shelf,LOW_STOCK,2,0,shelf_Lower_Shelf_LOW_STOCK_20260726_212002_frame_0.jpg,Initial stock is critical: LOW_STOCK.
+2026-07-26 21:20:03,Lower_Shelf_EMPTY_17,Lower_Shelf,EMPTY,0,17,shelf_Lower_Shelf_EMPTY_20260726_212003_frame_17.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-26 21:20:25,Lower_Shelf_LOW_STOCK_423,Lower_Shelf,LOW_STOCK,1,423,shelf_Lower_Shelf_LOW_STOCK_20260726_212025_frame_423.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:20:26,Lower_Shelf_FULLY_STOCKED_430,Lower_Shelf,FULLY_STOCKED,6,430,shelf_Lower_Shelf_FULLY_STOCKED_20260726_212026_frame_430.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:20:26,Upper_Shelf_LOW_STOCK_434,Upper_Shelf,LOW_STOCK,1,434,shelf_Upper_Shelf_LOW_STOCK_20260726_212026_frame_434.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-26 21:20:26,Upper_Shelf_NORMAL_440,Upper_Shelf,NORMAL,3,440,shelf_Upper_Shelf_NORMAL_20260726_212026_frame_440.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-26 21:20:27,Upper_Shelf_FULLY_STOCKED_443,Upper_Shelf,FULLY_STOCKED,6,443,shelf_Upper_Shelf_FULLY_STOCKED_20260726_212027_frame_443.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-26 21:20:28,Upper_Shelf_STOCK_RESTOCKING_459,Upper_Shelf,STOCK_RESTOCKING,9,459,shelf_Upper_Shelf_STOCK_RESTOCKING_20260726_212028_frame_459.jpg,Stock replenished from 0 to 9 items.
+2026-07-26 21:20:28,Lower_Shelf_STOCK_RESTOCKING_459,Lower_Shelf,STOCK_RESTOCKING,12,459,shelf_Lower_Shelf_STOCK_RESTOCKING_20260726_212028_frame_459.jpg,Stock replenished from 2 to 12 items.
+2026-07-26 21:20:28,Upper_Shelf_CUSTOMER_INTERACTION_466,Upper_Shelf,CUSTOMER_INTERACTION,7,466,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260726_212028_frame_466.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:20:28,Lower_Shelf_CUSTOMER_INTERACTION_466,Lower_Shelf,CUSTOMER_INTERACTION,9,466,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260726_212028_frame_466.jpg,Customer approached shelf and started interacting.
+2026-07-26 21:20:28,Upper_Shelf_NORMAL_474,Upper_Shelf,NORMAL,4,474,shelf_Upper_Shelf_NORMAL_20260726_212028_frame_474.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 4 items.
+2026-07-26 21:20:28,Upper_Shelf_LOW_STOCK_475,Upper_Shelf,LOW_STOCK,2,475,shelf_Upper_Shelf_LOW_STOCK_20260726_212028_frame_475.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-26 21:20:29,Upper_Shelf_EMPTY_480,Upper_Shelf,EMPTY,0,480,shelf_Upper_Shelf_EMPTY_20260726_212029_frame_480.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 17:38:55,Shelf_Left_INITIAL_STOCK_0,Shelf_Left,INITIAL_STOCK,0,0,shelf_Shelf_Left_INITIAL_STOCK_20260727_173855_frame_0.jpg,Initial stock level: 0 items.
+2026-07-27 17:38:55,Shelf_Left_EMPTY_0,Shelf_Left,EMPTY,0,0,shelf_Shelf_Left_EMPTY_20260727_173855_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-27 17:38:55,Shelf_Right_INITIAL_STOCK_0,Shelf_Right,INITIAL_STOCK,0,0,shelf_Shelf_Right_INITIAL_STOCK_20260727_173855_frame_0.jpg,Initial stock level: 0 items.
+2026-07-27 17:38:55,Shelf_Right_EMPTY_0,Shelf_Right,EMPTY,0,0,shelf_Shelf_Right_EMPTY_20260727_173855_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-27 17:38:56,Shelf_Right_LOW_STOCK_30,Shelf_Right,LOW_STOCK,1,30,shelf_Shelf_Right_LOW_STOCK_20260727_173856_frame_30.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 17:38:57,Shelf_Right_EMPTY_46,Shelf_Right,EMPTY,0,46,shelf_Shelf_Right_EMPTY_20260727_173857_frame_46.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 17:38:58,Shelf_Right_CUSTOMER_INTERACTION_59,Shelf_Right,CUSTOMER_INTERACTION,0,59,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173858_frame_59.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:38:59,Shelf_Right_LOW_STOCK_85,Shelf_Right,LOW_STOCK,1,85,shelf_Shelf_Right_LOW_STOCK_20260727_173859_frame_85.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 17:39:00,Shelf_Right_EMPTY_101,Shelf_Right,EMPTY,0,101,shelf_Shelf_Right_EMPTY_20260727_173900_frame_101.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 17:39:00,Shelf_Right_CUSTOMER_INTERACTION_END_105,Shelf_Right,CUSTOMER_INTERACTION_END,0,105,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173900_frame_105.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:04,Shelf_Right_LOW_STOCK_198,Shelf_Right,LOW_STOCK,1,198,shelf_Shelf_Right_LOW_STOCK_20260727_173904_frame_198.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 17:39:05,Shelf_Right_EMPTY_214,Shelf_Right,EMPTY,0,214,shelf_Shelf_Right_EMPTY_20260727_173905_frame_214.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 17:39:06,Shelf_Right_CUSTOMER_INTERACTION_226,Shelf_Right,CUSTOMER_INTERACTION,0,226,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173906_frame_226.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:08,Shelf_Right_CUSTOMER_INTERACTION_END_274,Shelf_Right,CUSTOMER_INTERACTION_END,0,274,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173908_frame_274.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:09,Shelf_Right_CUSTOMER_INTERACTION_294,Shelf_Right,CUSTOMER_INTERACTION,0,294,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173909_frame_294.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:12,Shelf_Left_CUSTOMER_INTERACTION_360,Shelf_Left,CUSTOMER_INTERACTION,0,360,shelf_Shelf_Left_CUSTOMER_INTERACTION_20260727_173912_frame_360.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:19,Shelf_Left_CUSTOMER_INTERACTION_END_509,Shelf_Left,CUSTOMER_INTERACTION_END,0,509,shelf_Shelf_Left_CUSTOMER_INTERACTION_END_20260727_173919_frame_509.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:20,Shelf_Right_CUSTOMER_INTERACTION_END_531,Shelf_Right,CUSTOMER_INTERACTION_END,0,531,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173920_frame_531.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:21,Shelf_Left_CUSTOMER_INTERACTION_543,Shelf_Left,CUSTOMER_INTERACTION,0,543,shelf_Shelf_Left_CUSTOMER_INTERACTION_20260727_173921_frame_543.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:22,Shelf_Right_CUSTOMER_INTERACTION_572,Shelf_Right,CUSTOMER_INTERACTION,0,572,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173922_frame_572.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:25,Shelf_Left_CUSTOMER_INTERACTION_END_635,Shelf_Left,CUSTOMER_INTERACTION_END,0,635,shelf_Shelf_Left_CUSTOMER_INTERACTION_END_20260727_173925_frame_635.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:25,Shelf_Right_CUSTOMER_INTERACTION_END_635,Shelf_Right,CUSTOMER_INTERACTION_END,0,635,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173925_frame_635.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:26,Shelf_Left_CUSTOMER_INTERACTION_653,Shelf_Left,CUSTOMER_INTERACTION,0,653,shelf_Shelf_Left_CUSTOMER_INTERACTION_20260727_173926_frame_653.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:27,Shelf_Right_CUSTOMER_INTERACTION_667,Shelf_Right,CUSTOMER_INTERACTION,0,667,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173927_frame_667.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:28,Shelf_Left_CUSTOMER_INTERACTION_END_700,Shelf_Left,CUSTOMER_INTERACTION_END,0,700,shelf_Shelf_Left_CUSTOMER_INTERACTION_END_20260727_173928_frame_700.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:29,Shelf_Right_CUSTOMER_INTERACTION_END_714,Shelf_Right,CUSTOMER_INTERACTION_END,0,714,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173929_frame_714.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:37,Shelf_Right_CUSTOMER_INTERACTION_873,Shelf_Right,CUSTOMER_INTERACTION,0,873,shelf_Shelf_Right_CUSTOMER_INTERACTION_20260727_173937_frame_873.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:40,Shelf_Left_CUSTOMER_INTERACTION_942,Shelf_Left,CUSTOMER_INTERACTION,0,942,shelf_Shelf_Left_CUSTOMER_INTERACTION_20260727_173940_frame_942.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:41,Shelf_Right_CUSTOMER_INTERACTION_END_959,Shelf_Right,CUSTOMER_INTERACTION_END,0,959,shelf_Shelf_Right_CUSTOMER_INTERACTION_END_20260727_173941_frame_959.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:52,Shelf_Left_CUSTOMER_INTERACTION_END_1172,Shelf_Left,CUSTOMER_INTERACTION_END,0,1172,shelf_Shelf_Left_CUSTOMER_INTERACTION_END_20260727_173952_frame_1172.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 17:39:53,Shelf_Left_CUSTOMER_INTERACTION_1193,Shelf_Left,CUSTOMER_INTERACTION,0,1193,shelf_Shelf_Left_CUSTOMER_INTERACTION_20260727_173953_frame_1193.jpg,Customer approached shelf and started interacting.
+2026-07-27 17:39:55,Shelf_Left_CUSTOMER_INTERACTION_END_1243,Shelf_Left,CUSTOMER_INTERACTION_END,0,1243,shelf_Shelf_Left_CUSTOMER_INTERACTION_END_20260727_173955_frame_1243.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 20:49:56,Main_Display_Shelf_INITIAL_STOCK_0,Main_Display_Shelf,INITIAL_STOCK,0,0,shelf_Main_Display_Shelf_INITIAL_STOCK_20260727_204956_frame_0.jpg,Initial stock level: 0 items.
+2026-07-27 20:49:56,Main_Display_Shelf_EMPTY_0,Main_Display_Shelf,EMPTY,0,0,shelf_Main_Display_Shelf_EMPTY_20260727_204956_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-27 20:50:00,Main_Display_Shelf_CUSTOMER_INTERACTION_75,Main_Display_Shelf,CUSTOMER_INTERACTION,0,75,shelf_Main_Display_Shelf_CUSTOMER_INTERACTION_20260727_205000_frame_75.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:50:00,Main_Display_Shelf_LOW_STOCK_78,Main_Display_Shelf,LOW_STOCK,1,78,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205000_frame_78.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:50:02,Main_Display_Shelf_EMPTY_101,Main_Display_Shelf,EMPTY,0,101,shelf_Main_Display_Shelf_EMPTY_20260727_205002_frame_101.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:50:04,Main_Display_Shelf_LOW_STOCK_125,Main_Display_Shelf,LOW_STOCK,1,125,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205004_frame_125.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:50:04,Main_Display_Shelf_NORMAL_126,Main_Display_Shelf,NORMAL,4,126,shelf_Main_Display_Shelf_NORMAL_20260727_205004_frame_126.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:50:04,Main_Display_Shelf_FULLY_STOCKED_128,Main_Display_Shelf,FULLY_STOCKED,8,128,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205004_frame_128.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 8 items.
+2026-07-27 20:50:14,Main_Display_Shelf_NORMAL_282,Main_Display_Shelf,NORMAL,6,282,shelf_Main_Display_Shelf_NORMAL_20260727_205014_frame_282.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 6 items.
+2026-07-27 20:50:14,Main_Display_Shelf_LOW_STOCK_284,Main_Display_Shelf,LOW_STOCK,3,284,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205014_frame_284.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-27 20:50:14,Main_Display_Shelf_EMPTY_286,Main_Display_Shelf,EMPTY,0,286,shelf_Main_Display_Shelf_EMPTY_20260727_205014_frame_286.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:50:19,Main_Display_Shelf_LOW_STOCK_374,Main_Display_Shelf,LOW_STOCK,1,374,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205019_frame_374.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:50:19,Main_Display_Shelf_STOCK_RESTOCKING_376,Main_Display_Shelf,STOCK_RESTOCKING,1,376,shelf_Main_Display_Shelf_STOCK_RESTOCKING_20260727_205019_frame_376.jpg,Stock replenished from 0 to 1 items.
+2026-07-27 20:50:20,Main_Display_Shelf_NORMAL_387,Main_Display_Shelf,NORMAL,4,387,shelf_Main_Display_Shelf_NORMAL_20260727_205020_frame_387.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:50:20,Main_Display_Shelf_FULLY_STOCKED_391,Main_Display_Shelf,FULLY_STOCKED,9,391,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205020_frame_391.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 9 items.
+2026-07-27 20:50:22,Main_Display_Shelf_NORMAL_424,Main_Display_Shelf,NORMAL,5,424,shelf_Main_Display_Shelf_NORMAL_20260727_205022_frame_424.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-27 20:50:22,Main_Display_Shelf_LOW_STOCK_427,Main_Display_Shelf,LOW_STOCK,3,427,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205022_frame_427.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-27 20:50:24,Main_Display_Shelf_CUSTOMER_INTERACTION_461,Main_Display_Shelf,CUSTOMER_INTERACTION,1,461,shelf_Main_Display_Shelf_CUSTOMER_INTERACTION_20260727_205024_frame_461.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:50:27,Main_Display_Shelf_CUSTOMER_INTERACTION_END_499,Main_Display_Shelf,CUSTOMER_INTERACTION_END,1,499,shelf_Main_Display_Shelf_CUSTOMER_INTERACTION_END_20260727_205027_frame_499.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 20:50:29,Main_Display_Shelf_NORMAL_543,Main_Display_Shelf,NORMAL,5,543,shelf_Main_Display_Shelf_NORMAL_20260727_205029_frame_543.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 5 items.
+2026-07-27 20:50:29,Main_Display_Shelf_FULLY_STOCKED_544,Main_Display_Shelf,FULLY_STOCKED,24,544,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205029_frame_544.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 24 items.
+2026-07-27 20:50:38,Main_Display_Shelf_NORMAL_682,Main_Display_Shelf,NORMAL,7,682,shelf_Main_Display_Shelf_NORMAL_20260727_205038_frame_682.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 7 items.
+2026-07-27 20:50:38,Main_Display_Shelf_EMPTY_683,Main_Display_Shelf,EMPTY,0,683,shelf_Main_Display_Shelf_EMPTY_20260727_205038_frame_683.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-27 20:50:39,Main_Display_Shelf_LOW_STOCK_703,Main_Display_Shelf,LOW_STOCK,2,703,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205039_frame_703.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-27 20:50:39,Main_Display_Shelf_NORMAL_705,Main_Display_Shelf,NORMAL,6,705,shelf_Main_Display_Shelf_NORMAL_20260727_205039_frame_705.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 6 items.
+2026-07-27 20:50:39,Main_Display_Shelf_FULLY_STOCKED_706,Main_Display_Shelf,FULLY_STOCKED,8,706,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205039_frame_706.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 8 items.
+2026-07-27 20:50:41,Main_Display_Shelf_NORMAL_734,Main_Display_Shelf,NORMAL,7,734,shelf_Main_Display_Shelf_NORMAL_20260727_205041_frame_734.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 7 items.
+2026-07-27 20:50:41,Main_Display_Shelf_LOW_STOCK_740,Main_Display_Shelf,LOW_STOCK,3,740,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205041_frame_740.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-27 20:50:43,Main_Display_Shelf_NORMAL_777,Main_Display_Shelf,NORMAL,4,777,shelf_Main_Display_Shelf_NORMAL_20260727_205043_frame_777.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:50:43,Main_Display_Shelf_CUSTOMER_INTERACTION_784,Main_Display_Shelf,CUSTOMER_INTERACTION,5,784,shelf_Main_Display_Shelf_CUSTOMER_INTERACTION_20260727_205043_frame_784.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:50:44,Main_Display_Shelf_LOW_STOCK_795,Main_Display_Shelf,LOW_STOCK,3,795,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205044_frame_795.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-27 20:50:53,Main_Display_Shelf_NORMAL_930,Main_Display_Shelf,NORMAL,4,930,shelf_Main_Display_Shelf_NORMAL_20260727_205053_frame_930.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:50:54,Main_Display_Shelf_EMPTY_946,Main_Display_Shelf,EMPTY,0,946,shelf_Main_Display_Shelf_EMPTY_20260727_205054_frame_946.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-27 20:50:54,Main_Display_Shelf_NORMAL_959,Main_Display_Shelf,NORMAL,4,959,shelf_Main_Display_Shelf_NORMAL_20260727_205054_frame_959.jpg,Stock transitioned from EMPTY to NORMAL. Count: 4 items.
+2026-07-27 20:50:55,Main_Display_Shelf_EMPTY_975,Main_Display_Shelf,EMPTY,0,975,shelf_Main_Display_Shelf_EMPTY_20260727_205055_frame_975.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-27 20:50:56,Main_Display_Shelf_STOCK_DEPLETION_989,Main_Display_Shelf,STOCK_DEPLETION,0,989,shelf_Main_Display_Shelf_STOCK_DEPLETION_20260727_205056_frame_989.jpg,Stock decreased from 5 to 0 items.
+2026-07-27 20:50:56,Main_Display_Shelf_LOW_STOCK_994,Main_Display_Shelf,LOW_STOCK,1,994,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205056_frame_994.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:50:57,Main_Display_Shelf_CUSTOMER_INTERACTION_1003,Main_Display_Shelf,CUSTOMER_INTERACTION,1,1003,shelf_Main_Display_Shelf_CUSTOMER_INTERACTION_20260727_205057_frame_1003.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:50:57,Main_Display_Shelf_NORMAL_1010,Main_Display_Shelf,NORMAL,4,1010,shelf_Main_Display_Shelf_NORMAL_20260727_205057_frame_1010.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:50:58,Main_Display_Shelf_FULLY_STOCKED_1017,Main_Display_Shelf,FULLY_STOCKED,8,1017,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205058_frame_1017.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 8 items.
+2026-07-27 20:50:58,Main_Display_Shelf_NORMAL_1025,Main_Display_Shelf,NORMAL,7,1025,shelf_Main_Display_Shelf_NORMAL_20260727_205058_frame_1025.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 7 items.
+2026-07-27 20:51:00,Main_Display_Shelf_LOW_STOCK_1045,Main_Display_Shelf,LOW_STOCK,2,1045,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205100_frame_1045.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:51:00,Main_Display_Shelf_NORMAL_1048,Main_Display_Shelf,NORMAL,4,1048,shelf_Main_Display_Shelf_NORMAL_20260727_205100_frame_1048.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 4 items.
+2026-07-27 20:51:00,Main_Display_Shelf_FULLY_STOCKED_1053,Main_Display_Shelf,FULLY_STOCKED,8,1053,shelf_Main_Display_Shelf_FULLY_STOCKED_20260727_205100_frame_1053.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 8 items.
+2026-07-27 20:51:07,Main_Display_Shelf_STOCK_RESTOCKING_1176,Main_Display_Shelf,STOCK_RESTOCKING,12,1176,shelf_Main_Display_Shelf_STOCK_RESTOCKING_20260727_205107_frame_1176.jpg,Stock replenished from 1 to 12 items.
+2026-07-27 20:51:08,Main_Display_Shelf_NORMAL_1193,Main_Display_Shelf,NORMAL,5,1193,shelf_Main_Display_Shelf_NORMAL_20260727_205108_frame_1193.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 5 items.
+2026-07-27 20:51:08,Main_Display_Shelf_LOW_STOCK_1194,Main_Display_Shelf,LOW_STOCK,3,1194,shelf_Main_Display_Shelf_LOW_STOCK_20260727_205108_frame_1194.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 3 items.
+2026-07-27 20:51:08,Main_Display_Shelf_EMPTY_1195,Main_Display_Shelf,EMPTY,0,1195,shelf_Main_Display_Shelf_EMPTY_20260727_205108_frame_1195.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:51:30,Upper_Shelf_INITIAL_STOCK_0,Upper_Shelf,INITIAL_STOCK,0,0,shelf_Upper_Shelf_INITIAL_STOCK_20260727_205130_frame_0.jpg,Initial stock level: 0 items.
+2026-07-27 20:51:30,Upper_Shelf_EMPTY_0,Upper_Shelf,EMPTY,0,0,shelf_Upper_Shelf_EMPTY_20260727_205130_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-27 20:51:30,Lower_Shelf_INITIAL_STOCK_0,Lower_Shelf,INITIAL_STOCK,0,0,shelf_Lower_Shelf_INITIAL_STOCK_20260727_205130_frame_0.jpg,Initial stock level: 0 items.
+2026-07-27 20:51:30,Lower_Shelf_EMPTY_0,Lower_Shelf,EMPTY,0,0,shelf_Lower_Shelf_EMPTY_20260727_205130_frame_0.jpg,Initial stock is critical: EMPTY.
+2026-07-27 20:51:39,Upper_Shelf_LOW_STOCK_163,Upper_Shelf,LOW_STOCK,2,163,shelf_Upper_Shelf_LOW_STOCK_20260727_205139_frame_163.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-27 20:51:39,Lower_Shelf_FULLY_STOCKED_163,Lower_Shelf,FULLY_STOCKED,7,163,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205139_frame_163.jpg,Stock transitioned from EMPTY to FULLY_STOCKED. Count: 7 items.
+2026-07-27 20:51:39,Upper_Shelf_NORMAL_165,Upper_Shelf,NORMAL,3,165,shelf_Upper_Shelf_NORMAL_20260727_205139_frame_165.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:51:40,Upper_Shelf_FULLY_STOCKED_192,Upper_Shelf,FULLY_STOCKED,4,192,shelf_Upper_Shelf_FULLY_STOCKED_20260727_205140_frame_192.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:51:41,Upper_Shelf_NORMAL_209,Upper_Shelf,NORMAL,3,209,shelf_Upper_Shelf_NORMAL_20260727_205141_frame_209.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:51:42,Upper_Shelf_CUSTOMER_INTERACTION_222,Upper_Shelf,CUSTOMER_INTERACTION,3,222,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205142_frame_222.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:51:42,Lower_Shelf_CUSTOMER_INTERACTION_224,Lower_Shelf,CUSTOMER_INTERACTION,8,224,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260727_205142_frame_224.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:51:42,Upper_Shelf_LOW_STOCK_227,Upper_Shelf,LOW_STOCK,1,227,shelf_Upper_Shelf_LOW_STOCK_20260727_205142_frame_227.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 1 items.
+2026-07-27 20:51:42,Lower_Shelf_EMPTY_227,Lower_Shelf,EMPTY,0,227,shelf_Lower_Shelf_EMPTY_20260727_205142_frame_227.jpg,Stock transitioned from FULLY_STOCKED to EMPTY. Count: 0 items.
+2026-07-27 20:51:46,Upper_Shelf_EMPTY_292,Upper_Shelf,EMPTY,0,292,shelf_Upper_Shelf_EMPTY_20260727_205146_frame_292.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:51:46,Lower_Shelf_LOW_STOCK_302,Lower_Shelf,LOW_STOCK,1,302,shelf_Lower_Shelf_LOW_STOCK_20260727_205146_frame_302.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:51:46,Lower_Shelf_NORMAL_305,Lower_Shelf,NORMAL,3,305,shelf_Lower_Shelf_NORMAL_20260727_205146_frame_305.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:51:47,Upper_Shelf_LOW_STOCK_320,Upper_Shelf,LOW_STOCK,1,320,shelf_Upper_Shelf_LOW_STOCK_20260727_205147_frame_320.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:51:48,Lower_Shelf_LOW_STOCK_332,Lower_Shelf,LOW_STOCK,1,332,shelf_Lower_Shelf_LOW_STOCK_20260727_205148_frame_332.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 1 items.
+2026-07-27 20:51:48,Lower_Shelf_EMPTY_333,Lower_Shelf,EMPTY,0,333,shelf_Lower_Shelf_EMPTY_20260727_205148_frame_333.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:51:54,Lower_Shelf_LOW_STOCK_432,Lower_Shelf,LOW_STOCK,2,432,shelf_Lower_Shelf_LOW_STOCK_20260727_205154_frame_432.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:02,Lower_Shelf_NORMAL_553,Lower_Shelf,NORMAL,3,553,shelf_Lower_Shelf_NORMAL_20260727_205202_frame_553.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:02,Lower_Shelf_LOW_STOCK_557,Lower_Shelf,LOW_STOCK,2,557,shelf_Lower_Shelf_LOW_STOCK_20260727_205202_frame_557.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:03,Upper_Shelf_EMPTY_566,Upper_Shelf,EMPTY,0,566,shelf_Upper_Shelf_EMPTY_20260727_205203_frame_566.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:11,Lower_Shelf_EMPTY_690,Lower_Shelf,EMPTY,0,690,shelf_Lower_Shelf_EMPTY_20260727_205211_frame_690.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:11,Upper_Shelf_LOW_STOCK_698,Upper_Shelf,LOW_STOCK,1,698,shelf_Upper_Shelf_LOW_STOCK_20260727_205211_frame_698.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:13,Upper_Shelf_EMPTY_733,Upper_Shelf,EMPTY,0,733,shelf_Upper_Shelf_EMPTY_20260727_205213_frame_733.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:16,Upper_Shelf_LOW_STOCK_797,Upper_Shelf,LOW_STOCK,1,797,shelf_Upper_Shelf_LOW_STOCK_20260727_205216_frame_797.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:19,Lower_Shelf_LOW_STOCK_841,Lower_Shelf,LOW_STOCK,1,841,shelf_Lower_Shelf_LOW_STOCK_20260727_205219_frame_841.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:20,Upper_Shelf_EMPTY_855,Upper_Shelf,EMPTY,0,855,shelf_Upper_Shelf_EMPTY_20260727_205220_frame_855.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:25,Lower_Shelf_EMPTY_934,Lower_Shelf,EMPTY,0,934,shelf_Lower_Shelf_EMPTY_20260727_205225_frame_934.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:26,Lower_Shelf_LOW_STOCK_948,Lower_Shelf,LOW_STOCK,1,948,shelf_Lower_Shelf_LOW_STOCK_20260727_205226_frame_948.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:27,Upper_Shelf_LOW_STOCK_973,Upper_Shelf,LOW_STOCK,1,973,shelf_Upper_Shelf_LOW_STOCK_20260727_205227_frame_973.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:28,Upper_Shelf_NORMAL_992,Upper_Shelf,NORMAL,3,992,shelf_Upper_Shelf_NORMAL_20260727_205228_frame_992.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:28,Upper_Shelf_LOW_STOCK_995,Upper_Shelf,LOW_STOCK,2,995,shelf_Upper_Shelf_LOW_STOCK_20260727_205228_frame_995.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:29,Upper_Shelf_STOCK_DEPLETION_1005,Upper_Shelf,STOCK_DEPLETION,2,1005,shelf_Upper_Shelf_STOCK_DEPLETION_20260727_205229_frame_1005.jpg,Stock decreased from 3 to 2 items.
+2026-07-27 20:52:29,Lower_Shelf_STOCK_DEPLETION_1005,Lower_Shelf,STOCK_DEPLETION,2,1005,shelf_Lower_Shelf_STOCK_DEPLETION_20260727_205229_frame_1005.jpg,Stock decreased from 8 to 2 items.
+2026-07-27 20:52:29,Upper_Shelf_EMPTY_1012,Upper_Shelf,EMPTY,0,1012,shelf_Upper_Shelf_EMPTY_20260727_205229_frame_1012.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:30,Lower_Shelf_EMPTY_1016,Lower_Shelf,EMPTY,0,1016,shelf_Lower_Shelf_EMPTY_20260727_205230_frame_1016.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:31,Upper_Shelf_CUSTOMER_INTERACTION_1030,Upper_Shelf,CUSTOMER_INTERACTION,0,1030,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205231_frame_1030.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:52:31,Upper_Shelf_LOW_STOCK_1044,Upper_Shelf,LOW_STOCK,1,1044,shelf_Upper_Shelf_LOW_STOCK_20260727_205231_frame_1044.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:32,Upper_Shelf_EMPTY_1060,Upper_Shelf,EMPTY,0,1060,shelf_Upper_Shelf_EMPTY_20260727_205232_frame_1060.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:32,Upper_Shelf_LOW_STOCK_1064,Upper_Shelf,LOW_STOCK,1,1064,shelf_Upper_Shelf_LOW_STOCK_20260727_205232_frame_1064.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:33,Upper_Shelf_STOCK_RESTOCKING_1067,Upper_Shelf,STOCK_RESTOCKING,1,1067,shelf_Upper_Shelf_STOCK_RESTOCKING_20260727_205233_frame_1067.jpg,Stock replenished from 0 to 1 items.
+2026-07-27 20:52:33,Lower_Shelf_CUSTOMER_INTERACTION_1070,Lower_Shelf,CUSTOMER_INTERACTION,0,1070,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260727_205233_frame_1070.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:52:33,Upper_Shelf_EMPTY_1080,Upper_Shelf,EMPTY,0,1080,shelf_Upper_Shelf_EMPTY_20260727_205233_frame_1080.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:33,Upper_Shelf_LOW_STOCK_1081,Upper_Shelf,LOW_STOCK,1,1081,shelf_Upper_Shelf_LOW_STOCK_20260727_205233_frame_1081.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:34,Lower_Shelf_LOW_STOCK_1085,Lower_Shelf,LOW_STOCK,1,1085,shelf_Lower_Shelf_LOW_STOCK_20260727_205234_frame_1085.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:35,Lower_Shelf_EMPTY_1101,Lower_Shelf,EMPTY,0,1101,shelf_Lower_Shelf_EMPTY_20260727_205235_frame_1101.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:36,Upper_Shelf_EMPTY_1122,Upper_Shelf,EMPTY,0,1122,shelf_Upper_Shelf_EMPTY_20260727_205236_frame_1122.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:37,Upper_Shelf_CUSTOMER_INTERACTION_1140,Upper_Shelf,CUSTOMER_INTERACTION,2,1140,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205237_frame_1140.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:52:37,Upper_Shelf_LOW_STOCK_1140,Upper_Shelf,LOW_STOCK,2,1140,shelf_Upper_Shelf_LOW_STOCK_20260727_205237_frame_1140.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:37,Lower_Shelf_LOW_STOCK_1140,Lower_Shelf,LOW_STOCK,1,1140,shelf_Lower_Shelf_LOW_STOCK_20260727_205237_frame_1140.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:37,Upper_Shelf_NORMAL_1147,Upper_Shelf,NORMAL,3,1147,shelf_Upper_Shelf_NORMAL_20260727_205237_frame_1147.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:38,Lower_Shelf_NORMAL_1153,Lower_Shelf,NORMAL,3,1153,shelf_Lower_Shelf_NORMAL_20260727_205238_frame_1153.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:38,Upper_Shelf_LOW_STOCK_1166,Upper_Shelf,LOW_STOCK,2,1166,shelf_Upper_Shelf_LOW_STOCK_20260727_205238_frame_1166.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:39,Lower_Shelf_FULLY_STOCKED_1173,Lower_Shelf,FULLY_STOCKED,4,1173,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205239_frame_1173.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:40,Lower_Shelf_NORMAL_1191,Lower_Shelf,NORMAL,3,1191,shelf_Lower_Shelf_NORMAL_20260727_205240_frame_1191.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:40,Lower_Shelf_FULLY_STOCKED_1194,Lower_Shelf,FULLY_STOCKED,4,1194,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205240_frame_1194.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:41,Lower_Shelf_NORMAL_1209,Lower_Shelf,NORMAL,3,1209,shelf_Lower_Shelf_NORMAL_20260727_205241_frame_1209.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:41,Upper_Shelf_NORMAL_1213,Upper_Shelf,NORMAL,3,1213,shelf_Upper_Shelf_NORMAL_20260727_205241_frame_1213.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:41,Lower_Shelf_FULLY_STOCKED_1213,Lower_Shelf,FULLY_STOCKED,4,1213,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205241_frame_1213.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:41,Lower_Shelf_LOW_STOCK_1214,Lower_Shelf,LOW_STOCK,2,1214,shelf_Lower_Shelf_LOW_STOCK_20260727_205241_frame_1214.jpg,Stock transitioned from FULLY_STOCKED to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:42,Upper_Shelf_LOW_STOCK_1216,Upper_Shelf,LOW_STOCK,2,1216,shelf_Upper_Shelf_LOW_STOCK_20260727_205242_frame_1216.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:42,Upper_Shelf_NORMAL_1228,Upper_Shelf,NORMAL,3,1228,shelf_Upper_Shelf_NORMAL_20260727_205242_frame_1228.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:42,Lower_Shelf_EMPTY_1228,Lower_Shelf,EMPTY,0,1228,shelf_Lower_Shelf_EMPTY_20260727_205242_frame_1228.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:42,Lower_Shelf_LOW_STOCK_1229,Lower_Shelf,LOW_STOCK,1,1229,shelf_Lower_Shelf_LOW_STOCK_20260727_205242_frame_1229.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:43,Upper_Shelf_LOW_STOCK_1233,Upper_Shelf,LOW_STOCK,2,1233,shelf_Upper_Shelf_LOW_STOCK_20260727_205243_frame_1233.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:43,Upper_Shelf_NORMAL_1243,Upper_Shelf,NORMAL,3,1243,shelf_Upper_Shelf_NORMAL_20260727_205243_frame_1243.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:44,Lower_Shelf_EMPTY_1247,Lower_Shelf,EMPTY,0,1247,shelf_Lower_Shelf_EMPTY_20260727_205244_frame_1247.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:44,Upper_Shelf_FULLY_STOCKED_1250,Upper_Shelf,FULLY_STOCKED,4,1250,shelf_Upper_Shelf_FULLY_STOCKED_20260727_205244_frame_1250.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:44,Lower_Shelf_LOW_STOCK_1254,Lower_Shelf,LOW_STOCK,1,1254,shelf_Lower_Shelf_LOW_STOCK_20260727_205244_frame_1254.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:45,Lower_Shelf_NORMAL_1266,Lower_Shelf,NORMAL,3,1266,shelf_Lower_Shelf_NORMAL_20260727_205245_frame_1266.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:45,Lower_Shelf_LOW_STOCK_1270,Lower_Shelf,LOW_STOCK,2,1270,shelf_Lower_Shelf_LOW_STOCK_20260727_205245_frame_1270.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:45,Lower_Shelf_FULLY_STOCKED_1273,Lower_Shelf,FULLY_STOCKED,4,1273,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205245_frame_1273.jpg,Stock transitioned from LOW_STOCK to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:46,Upper_Shelf_NORMAL_1279,Upper_Shelf,NORMAL,3,1279,shelf_Upper_Shelf_NORMAL_20260727_205246_frame_1279.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:46,Upper_Shelf_LOW_STOCK_1280,Upper_Shelf,LOW_STOCK,1,1280,shelf_Upper_Shelf_LOW_STOCK_20260727_205246_frame_1280.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:47,Upper_Shelf_EMPTY_1298,Upper_Shelf,EMPTY,0,1298,shelf_Upper_Shelf_EMPTY_20260727_205247_frame_1298.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:52:47,Upper_Shelf_LOW_STOCK_1305,Upper_Shelf,LOW_STOCK,2,1305,shelf_Upper_Shelf_LOW_STOCK_20260727_205247_frame_1305.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:48,Lower_Shelf_NORMAL_1315,Lower_Shelf,NORMAL,3,1315,shelf_Lower_Shelf_NORMAL_20260727_205248_frame_1315.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:48,Lower_Shelf_LOW_STOCK_1316,Lower_Shelf,LOW_STOCK,2,1316,shelf_Lower_Shelf_LOW_STOCK_20260727_205248_frame_1316.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:48,Upper_Shelf_CUSTOMER_INTERACTION_END_1317,Upper_Shelf,CUSTOMER_INTERACTION_END,2,1317,shelf_Upper_Shelf_CUSTOMER_INTERACTION_END_20260727_205248_frame_1317.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 20:52:48,Lower_Shelf_STOCK_RESTOCKING_1317,Lower_Shelf,STOCK_RESTOCKING,2,1317,shelf_Lower_Shelf_STOCK_RESTOCKING_20260727_205248_frame_1317.jpg,Stock replenished from 0 to 2 items.
+2026-07-27 20:52:49,Upper_Shelf_NORMAL_1330,Upper_Shelf,NORMAL,3,1330,shelf_Upper_Shelf_NORMAL_20260727_205249_frame_1330.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:49,Upper_Shelf_FULLY_STOCKED_1342,Upper_Shelf,FULLY_STOCKED,4,1342,shelf_Upper_Shelf_FULLY_STOCKED_20260727_205249_frame_1342.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:50,Upper_Shelf_NORMAL_1347,Upper_Shelf,NORMAL,3,1347,shelf_Upper_Shelf_NORMAL_20260727_205250_frame_1347.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:50,Lower_Shelf_NORMAL_1352,Lower_Shelf,NORMAL,3,1352,shelf_Lower_Shelf_NORMAL_20260727_205250_frame_1352.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:51,Lower_Shelf_FULLY_STOCKED_1366,Lower_Shelf,FULLY_STOCKED,4,1366,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205251_frame_1366.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:51,Upper_Shelf_LOW_STOCK_1378,Upper_Shelf,LOW_STOCK,2,1378,shelf_Upper_Shelf_LOW_STOCK_20260727_205251_frame_1378.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:52:52,Upper_Shelf_NORMAL_1381,Upper_Shelf,NORMAL,3,1381,shelf_Upper_Shelf_NORMAL_20260727_205251_frame_1381.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:52:52,Lower_Shelf_NORMAL_1390,Lower_Shelf,NORMAL,3,1390,shelf_Lower_Shelf_NORMAL_20260727_205252_frame_1390.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:52:52,Lower_Shelf_FULLY_STOCKED_1393,Lower_Shelf,FULLY_STOCKED,6,1393,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205252_frame_1393.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 6 items.
+2026-07-27 20:52:52,Upper_Shelf_FULLY_STOCKED_1396,Upper_Shelf,FULLY_STOCKED,4,1396,shelf_Upper_Shelf_FULLY_STOCKED_20260727_205252_frame_1396.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:52:53,Upper_Shelf_LOW_STOCK_1408,Upper_Shelf,LOW_STOCK,1,1408,shelf_Upper_Shelf_LOW_STOCK_20260727_205253_frame_1408.jpg,Stock transitioned from FULLY_STOCKED to LOW_STOCK. Count: 1 items.
+2026-07-27 20:52:53,Upper_Shelf_CUSTOMER_INTERACTION_1410,Upper_Shelf,CUSTOMER_INTERACTION,1,1410,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205253_frame_1410.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:52:53,Lower_Shelf_CUSTOMER_INTERACTION_1410,Lower_Shelf,CUSTOMER_INTERACTION,5,1410,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260727_205253_frame_1410.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:52:55,Upper_Shelf_CUSTOMER_INTERACTION_END_1450,Upper_Shelf,CUSTOMER_INTERACTION_END,1,1450,shelf_Upper_Shelf_CUSTOMER_INTERACTION_END_20260727_205255_frame_1450.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 20:52:58,Upper_Shelf_EMPTY_1486,Upper_Shelf,EMPTY,0,1486,shelf_Upper_Shelf_EMPTY_20260727_205258_frame_1486.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:00,Lower_Shelf_CUSTOMER_INTERACTION_END_1507,Lower_Shelf,CUSTOMER_INTERACTION_END,5,1507,shelf_Lower_Shelf_CUSTOMER_INTERACTION_END_20260727_205300_frame_1507.jpg,Customer left shelf. No stock levels changed.
+2026-07-27 20:53:00,Upper_Shelf_LOW_STOCK_1513,Upper_Shelf,LOW_STOCK,1,1513,shelf_Upper_Shelf_LOW_STOCK_20260727_205300_frame_1513.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:02,Upper_Shelf_CUSTOMER_INTERACTION_1544,Upper_Shelf,CUSTOMER_INTERACTION,1,1544,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205302_frame_1544.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:53:02,Lower_Shelf_CUSTOMER_INTERACTION_1544,Lower_Shelf,CUSTOMER_INTERACTION,7,1544,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260727_205302_frame_1544.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:53:04,Upper_Shelf_EMPTY_1575,Upper_Shelf,EMPTY,0,1575,shelf_Upper_Shelf_EMPTY_20260727_205304_frame_1575.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:06,Upper_Shelf_LOW_STOCK_1602,Upper_Shelf,LOW_STOCK,1,1602,shelf_Upper_Shelf_LOW_STOCK_20260727_205306_frame_1602.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:08,Upper_Shelf_EMPTY_1639,Upper_Shelf,EMPTY,0,1639,shelf_Upper_Shelf_EMPTY_20260727_205308_frame_1639.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:08,Upper_Shelf_NORMAL_1651,Upper_Shelf,NORMAL,3,1651,shelf_Upper_Shelf_NORMAL_20260727_205308_frame_1651.jpg,Stock transitioned from EMPTY to NORMAL. Count: 3 items.
+2026-07-27 20:53:09,Upper_Shelf_FULLY_STOCKED_1657,Upper_Shelf,FULLY_STOCKED,4,1657,shelf_Upper_Shelf_FULLY_STOCKED_20260727_205309_frame_1657.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:53:11,Lower_Shelf_NORMAL_1694,Lower_Shelf,NORMAL,3,1694,shelf_Lower_Shelf_NORMAL_20260727_205311_frame_1694.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:53:12,Upper_Shelf_STOCK_RESTOCKING_1719,Upper_Shelf,STOCK_RESTOCKING,4,1719,shelf_Upper_Shelf_STOCK_RESTOCKING_20260727_205312_frame_1719.jpg,Stock replenished from 1 to 4 items.
+2026-07-27 20:53:12,Lower_Shelf_STOCK_DEPLETION_1719,Lower_Shelf,STOCK_DEPLETION,3,1719,shelf_Lower_Shelf_STOCK_DEPLETION_20260727_205312_frame_1719.jpg,Stock decreased from 7 to 3 items.
+2026-07-27 20:53:14,Upper_Shelf_NORMAL_1759,Upper_Shelf,NORMAL,3,1759,shelf_Upper_Shelf_NORMAL_20260727_205314_frame_1759.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:53:14,Upper_Shelf_CUSTOMER_INTERACTION_1760,Upper_Shelf,CUSTOMER_INTERACTION,3,1760,shelf_Upper_Shelf_CUSTOMER_INTERACTION_20260727_205314_frame_1760.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:53:14,Lower_Shelf_CUSTOMER_INTERACTION_1760,Lower_Shelf,CUSTOMER_INTERACTION,3,1760,shelf_Lower_Shelf_CUSTOMER_INTERACTION_20260727_205314_frame_1760.jpg,Customer approached shelf and started interacting.
+2026-07-27 20:53:15,Upper_Shelf_EMPTY_1775,Upper_Shelf,EMPTY,0,1775,shelf_Upper_Shelf_EMPTY_20260727_205315_frame_1775.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-27 20:53:15,Lower_Shelf_EMPTY_1775,Lower_Shelf,EMPTY,0,1775,shelf_Lower_Shelf_EMPTY_20260727_205315_frame_1775.jpg,Stock transitioned from NORMAL to EMPTY. Count: 0 items.
+2026-07-27 20:53:22,Lower_Shelf_LOW_STOCK_1888,Lower_Shelf,LOW_STOCK,1,1888,shelf_Lower_Shelf_LOW_STOCK_20260727_205322_frame_1888.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:22,Lower_Shelf_NORMAL_1891,Lower_Shelf,NORMAL,3,1891,shelf_Lower_Shelf_NORMAL_20260727_205322_frame_1891.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:53:22,Lower_Shelf_FULLY_STOCKED_1892,Lower_Shelf,FULLY_STOCKED,4,1892,shelf_Lower_Shelf_FULLY_STOCKED_20260727_205322_frame_1892.jpg,Stock transitioned from NORMAL to FULLY_STOCKED. Count: 4 items.
+2026-07-27 20:53:23,Lower_Shelf_NORMAL_1911,Lower_Shelf,NORMAL,3,1911,shelf_Lower_Shelf_NORMAL_20260727_205323_frame_1911.jpg,Stock transitioned from FULLY_STOCKED to NORMAL. Count: 3 items.
+2026-07-27 20:53:24,Lower_Shelf_LOW_STOCK_1912,Lower_Shelf,LOW_STOCK,2,1912,shelf_Lower_Shelf_LOW_STOCK_20260727_205324_frame_1912.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:53:24,Lower_Shelf_EMPTY_1914,Lower_Shelf,EMPTY,0,1914,shelf_Lower_Shelf_EMPTY_20260727_205324_frame_1914.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:26,Upper_Shelf_LOW_STOCK_1951,Upper_Shelf,LOW_STOCK,1,1951,shelf_Upper_Shelf_LOW_STOCK_20260727_205326_frame_1951.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:30,Upper_Shelf_EMPTY_2021,Upper_Shelf,EMPTY,0,2021,shelf_Upper_Shelf_EMPTY_20260727_205330_frame_2021.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:31,Upper_Shelf_STOCK_DEPLETION_2042,Upper_Shelf,STOCK_DEPLETION,0,2042,shelf_Upper_Shelf_STOCK_DEPLETION_20260727_205331_frame_2042.jpg,Stock decreased from 3 to 0 items.
+2026-07-27 20:53:31,Lower_Shelf_STOCK_DEPLETION_2042,Lower_Shelf,STOCK_DEPLETION,0,2042,shelf_Lower_Shelf_STOCK_DEPLETION_20260727_205331_frame_2042.jpg,Stock decreased from 3 to 0 items.
+2026-07-27 20:53:32,Lower_Shelf_LOW_STOCK_2067,Lower_Shelf,LOW_STOCK,1,2067,shelf_Lower_Shelf_LOW_STOCK_20260727_205332_frame_2067.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:38,Lower_Shelf_EMPTY_2174,Lower_Shelf,EMPTY,0,2174,shelf_Lower_Shelf_EMPTY_20260727_205338_frame_2174.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:39,Upper_Shelf_LOW_STOCK_2181,Upper_Shelf,LOW_STOCK,1,2181,shelf_Upper_Shelf_LOW_STOCK_20260727_205339_frame_2181.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:39,Lower_Shelf_LOW_STOCK_2181,Lower_Shelf,LOW_STOCK,1,2181,shelf_Lower_Shelf_LOW_STOCK_20260727_205339_frame_2181.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:39,Upper_Shelf_EMPTY_2182,Upper_Shelf,EMPTY,0,2182,shelf_Upper_Shelf_EMPTY_20260727_205339_frame_2182.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:39,Lower_Shelf_NORMAL_2187,Lower_Shelf,NORMAL,3,2187,shelf_Lower_Shelf_NORMAL_20260727_205339_frame_2187.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:53:39,Lower_Shelf_LOW_STOCK_2188,Lower_Shelf,LOW_STOCK,2,2188,shelf_Lower_Shelf_LOW_STOCK_20260727_205339_frame_2188.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:53:39,Lower_Shelf_NORMAL_2189,Lower_Shelf,NORMAL,3,2189,shelf_Lower_Shelf_NORMAL_20260727_205339_frame_2189.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:53:40,Lower_Shelf_LOW_STOCK_2197,Lower_Shelf,LOW_STOCK,2,2197,shelf_Lower_Shelf_LOW_STOCK_20260727_205340_frame_2197.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:53:40,Upper_Shelf_LOW_STOCK_2198,Upper_Shelf,LOW_STOCK,1,2198,shelf_Upper_Shelf_LOW_STOCK_20260727_205340_frame_2198.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:40,Lower_Shelf_EMPTY_2205,Lower_Shelf,EMPTY,0,2205,shelf_Lower_Shelf_EMPTY_20260727_205340_frame_2205.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:40,Upper_Shelf_NORMAL_2208,Upper_Shelf,NORMAL,3,2208,shelf_Upper_Shelf_NORMAL_20260727_205340_frame_2208.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:53:41,Upper_Shelf_LOW_STOCK_2214,Upper_Shelf,LOW_STOCK,2,2214,shelf_Upper_Shelf_LOW_STOCK_20260727_205341_frame_2214.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:53:42,Upper_Shelf_EMPTY_2238,Upper_Shelf,EMPTY,0,2238,shelf_Upper_Shelf_EMPTY_20260727_205342_frame_2238.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:46,Upper_Shelf_LOW_STOCK_2313,Upper_Shelf,LOW_STOCK,1,2313,shelf_Upper_Shelf_LOW_STOCK_20260727_205346_frame_2313.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:47,Upper_Shelf_EMPTY_2330,Upper_Shelf,EMPTY,0,2330,shelf_Upper_Shelf_EMPTY_20260727_205347_frame_2330.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.
+2026-07-27 20:53:49,Upper_Shelf_LOW_STOCK_2363,Upper_Shelf,LOW_STOCK,1,2363,shelf_Upper_Shelf_LOW_STOCK_20260727_205349_frame_2363.jpg,Stock transitioned from EMPTY to LOW_STOCK. Count: 1 items.
+2026-07-27 20:53:52,Upper_Shelf_NORMAL_2418,Upper_Shelf,NORMAL,3,2418,shelf_Upper_Shelf_NORMAL_20260727_205352_frame_2418.jpg,Stock transitioned from LOW_STOCK to NORMAL. Count: 3 items.
+2026-07-27 20:53:52,Upper_Shelf_LOW_STOCK_2419,Upper_Shelf,LOW_STOCK,2,2419,shelf_Upper_Shelf_LOW_STOCK_20260727_205352_frame_2419.jpg,Stock transitioned from NORMAL to LOW_STOCK. Count: 2 items.
+2026-07-27 20:53:53,Upper_Shelf_EMPTY_2440,Upper_Shelf,EMPTY,0,2440,shelf_Upper_Shelf_EMPTY_20260727_205353_frame_2440.jpg,Stock transitioned from LOW_STOCK to EMPTY. Count: 0 items.

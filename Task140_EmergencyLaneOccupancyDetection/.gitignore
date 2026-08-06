@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Model weights (YOLO)
+*.pt
+yolov8*.pt
+yolov11*.pt
+
+# Video files (Inputs & Outputs)
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Reports & Snapshots
+evidence/
+occupancy_report.csv
+*.csv

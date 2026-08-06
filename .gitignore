@@ -7,3 +7,11 @@ dev_data_pump/
 
 # OS generated files
 .DS_Store
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

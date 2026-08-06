@@ -1,0 +1,121 @@
+Timestamp,Track ID,Event Type,Duration in Danger Zone (s),Snapshot Path
+2026-07-19 21:17:46,1,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_1_line_crossing_20260719_211746.jpg
+2026-07-19 21:17:48,3,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_3_line_crossing_20260719_211748.jpg
+2026-07-19 21:17:49,5,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_5_line_crossing_20260719_211749.jpg
+2026-07-19 21:17:50,5,Safe Return,0.24,D:\Internship\Railway platform saftey monitoring\evidence\track_5_safe_return_20260719_211750.jpg
+2026-07-19 21:17:50,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_211750.jpg
+2026-07-19 21:17:50,6,Safe Return,0.5,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_211750.jpg
+2026-07-19 21:18:56,1,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_1_line_crossing_20260719_211856.jpg
+2026-07-19 21:18:58,3,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_3_line_crossing_20260719_211858.jpg
+2026-07-19 21:18:59,5,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_5_line_crossing_20260719_211859.jpg
+2026-07-19 21:19:00,5,Safe Return,0.32,D:\Internship\Railway platform saftey monitoring\evidence\track_5_safe_return_20260719_211900.jpg
+2026-07-19 21:19:00,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_211900.jpg
+2026-07-19 21:19:00,6,Safe Return,0.65,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_211900.jpg
+2026-07-19 21:27:59,3,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_3_line_crossing_20260719_212759.jpg
+2026-07-19 21:27:59,5,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_5_line_crossing_20260719_212759.jpg
+2026-07-19 21:28:00,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_212800.jpg
+2026-07-19 21:28:00,6,Safe Return,0.09,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_212800.jpg
+2026-07-19 21:28:00,7,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_7_line_crossing_20260719_212800.jpg
+2026-07-19 21:28:01,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_212801.jpg
+2026-07-19 21:28:01,6,Safe Return,0.03,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_212801.jpg
+2026-07-19 21:28:01,9,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_9_line_crossing_20260719_212801.jpg
+2026-07-19 21:28:02,10,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_10_line_crossing_20260719_212802.jpg
+2026-07-19 21:28:02,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_212802.jpg
+2026-07-19 21:28:02,6,Safe Return,0.02,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_212802.jpg
+2026-07-19 21:28:02,10,Safe Return,0.36,D:\Internship\Railway platform saftey monitoring\evidence\track_10_safe_return_20260719_212802.jpg
+2026-07-19 21:28:02,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260719_212802.jpg
+2026-07-19 21:28:03,6,Safe Return,0.08,D:\Internship\Railway platform saftey monitoring\evidence\track_6_safe_return_20260719_212803.jpg
+2026-07-22 09:12:43,1000,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_1000_line_crossing_20260722_091243.jpg
+2026-07-22 09:12:43,1000,Safe Return,0.56,D:\Internship\Railway platform saftey monitoring\evidence\track_1000_safe_return_20260722_091243.jpg
+2026-07-22 09:13:48,2,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_2_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,3,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_3_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,5,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_5_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,6,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_6_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,9,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_9_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,12,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_12_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:48,18,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_18_line_crossing_20260722_091348.jpg
+2026-07-22 09:13:49,19,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_19_line_crossing_20260722_091349.jpg
+2026-07-22 09:13:49,20,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_20_line_crossing_20260722_091349.jpg
+2026-07-22 09:13:49,21,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_21_line_crossing_20260722_091349.jpg
+2026-07-22 09:13:49,22,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_22_line_crossing_20260722_091349.jpg
+2026-07-22 09:13:49,2,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_2_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,3,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_3_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,5,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_5_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,6,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_6_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,9,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_9_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,12,Dwell Danger,5.1,D:\Internship\Railway platform saftey monitoring\evidence\track_12_dwell_danger_20260722_091349.jpg
+2026-07-22 09:13:49,24,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_24_line_crossing_20260722_091349.jpg
+2026-07-22 09:13:50,25,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_25_line_crossing_20260722_091350.jpg
+2026-07-22 09:13:51,1,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_1_line_crossing_20260722_091351.jpg
+2026-07-22 09:13:53,28,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_28_line_crossing_20260722_091353.jpg
+2026-07-22 09:13:53,18,Dwell Danger,5.01,D:\Internship\Railway platform saftey monitoring\evidence\track_18_dwell_danger_20260722_091353.jpg
+2026-07-22 09:13:54,20,Dwell Danger,5.02,D:\Internship\Railway platform saftey monitoring\evidence\track_20_dwell_danger_20260722_091354.jpg
+2026-07-22 09:13:54,21,Dwell Danger,5.0,D:\Internship\Railway platform saftey monitoring\evidence\track_21_dwell_danger_20260722_091354.jpg
+2026-07-22 09:13:54,30,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_30_line_crossing_20260722_091354.jpg
+2026-07-22 09:13:54,22,Dwell Danger,5.26,D:\Internship\Railway platform saftey monitoring\evidence\track_22_dwell_danger_20260722_091354.jpg
+2026-07-22 09:13:54,31,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_31_line_crossing_20260722_091354.jpg
+2026-07-22 09:13:54,24,Dwell Danger,5.03,D:\Internship\Railway platform saftey monitoring\evidence\track_24_dwell_danger_20260722_091354.jpg
+2026-07-22 09:13:55,25,Dwell Danger,5.01,D:\Internship\Railway platform saftey monitoring\evidence\track_25_dwell_danger_20260722_091355.jpg
+2026-07-22 09:13:55,33,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_33_line_crossing_20260722_091355.jpg
+2026-07-22 09:13:56,19,Dwell Danger,7.09,D:\Internship\Railway platform saftey monitoring\evidence\track_19_dwell_danger_20260722_091356.jpg
+2026-07-22 09:13:57,1,Dwell Danger,6.04,D:\Internship\Railway platform saftey monitoring\evidence\track_1_dwell_danger_20260722_091357.jpg
+2026-07-22 09:13:58,37,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_37_line_crossing_20260722_091358.jpg
+2026-07-22 09:13:58,28,Dwell Danger,5.01,D:\Internship\Railway platform saftey monitoring\evidence\track_28_dwell_danger_20260722_091358.jpg
+2026-07-22 09:13:59,30,Dwell Danger,5.0,D:\Internship\Railway platform saftey monitoring\evidence\track_30_dwell_danger_20260722_091359.jpg
+2026-07-22 09:13:59,31,Dwell Danger,5.0,D:\Internship\Railway platform saftey monitoring\evidence\track_31_dwell_danger_20260722_091359.jpg
+2026-07-22 09:14:00,33,Dwell Danger,5.01,D:\Internship\Railway platform saftey monitoring\evidence\track_33_dwell_danger_20260722_091400.jpg
+2026-07-22 09:14:03,42,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_42_line_crossing_20260722_091403.jpg
+2026-07-22 09:14:03,37,Dwell Danger,5.63,D:\Internship\Railway platform saftey monitoring\evidence\track_37_dwell_danger_20260722_091403.jpg
+2026-07-22 09:14:05,17,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_17_line_crossing_20260722_091405.jpg
+2026-07-22 09:14:06,17,Safe Return,1.31,D:\Internship\Railway platform saftey monitoring\evidence\track_17_safe_return_20260722_091406.jpg
+2026-07-22 09:14:06,17,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_17_line_crossing_20260722_091406.jpg
+2026-07-22 09:14:06,17,Safe Return,0.11,D:\Internship\Railway platform saftey monitoring\evidence\track_17_safe_return_20260722_091406.jpg
+2026-07-22 09:14:06,17,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_17_line_crossing_20260722_091406.jpg
+2026-07-22 09:14:08,42,Dwell Danger,5.09,D:\Internship\Railway platform saftey monitoring\evidence\track_42_dwell_danger_20260722_091408.jpg
+2026-07-22 09:14:08,45,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_45_line_crossing_20260722_091408.jpg
+2026-07-22 09:14:09,45,Safe Return,1.35,D:\Internship\Railway platform saftey monitoring\evidence\track_45_safe_return_20260722_091409.jpg
+2026-07-22 09:14:10,46,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_46_line_crossing_20260722_091410.jpg
+2026-07-22 09:14:11,45,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_45_line_crossing_20260722_091411.jpg
+2026-07-22 09:14:12,17,Dwell Danger,5.07,D:\Internship\Railway platform saftey monitoring\evidence\track_17_dwell_danger_20260722_091412.jpg
+2026-07-22 09:14:12,45,Safe Return,0.31,D:\Internship\Railway platform saftey monitoring\evidence\track_45_safe_return_20260722_091412.jpg
+2026-07-22 09:14:13,47,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_47_line_crossing_20260722_091413.jpg
+2026-07-22 09:14:14,45,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_45_line_crossing_20260722_091414.jpg
+2026-07-22 09:14:14,48,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_48_line_crossing_20260722_091414.jpg
+2026-07-22 09:14:15,46,Dwell Danger,5.0,D:\Internship\Railway platform saftey monitoring\evidence\track_46_dwell_danger_20260722_091415.jpg
+2026-07-22 09:14:15,45,Safe Return,1.38,D:\Internship\Railway platform saftey monitoring\evidence\track_45_safe_return_20260722_091415.jpg
+2026-07-22 09:14:15,49,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_49_line_crossing_20260722_091415.jpg
+2026-07-22 09:14:17,50,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_50_line_crossing_20260722_091417.jpg
+2026-07-22 09:14:17,51,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_51_line_crossing_20260722_091417.jpg
+2026-07-22 09:14:17,45,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_45_line_crossing_20260722_091417.jpg
+2026-07-22 09:14:17,52,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_52_line_crossing_20260722_091417.jpg
+2026-07-22 09:14:18,38,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_38_line_crossing_20260722_091418.jpg
+2026-07-22 09:14:18,45,Safe Return,0.45,D:\Internship\Railway platform saftey monitoring\evidence\track_45_safe_return_20260722_091418.jpg
+2026-07-22 09:14:18,38,Safe Return,0.13,D:\Internship\Railway platform saftey monitoring\evidence\track_38_safe_return_20260722_091418.jpg
+2026-07-22 09:14:18,38,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_38_line_crossing_20260722_091418.jpg
+2026-07-22 09:14:18,47,Dwell Danger,5.03,D:\Internship\Railway platform saftey monitoring\evidence\track_47_dwell_danger_20260722_091418.jpg
+2026-07-22 09:14:18,53,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_53_line_crossing_20260722_091418.jpg
+2026-07-22 09:14:18,38,Safe Return,0.58,D:\Internship\Railway platform saftey monitoring\evidence\track_38_safe_return_20260722_091418.jpg
+2026-07-22 09:14:19,48,Dwell Danger,5.01,D:\Internship\Railway platform saftey monitoring\evidence\track_48_dwell_danger_20260722_091419.jpg
+2026-07-22 09:14:20,45,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_45_line_crossing_20260722_091420.jpg
+2026-07-22 09:14:20,54,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_54_line_crossing_20260722_091420.jpg
+2026-07-22 09:14:20,38,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_38_line_crossing_20260722_091420.jpg
+2026-07-22 09:14:20,49,Dwell Danger,5.25,D:\Internship\Railway platform saftey monitoring\evidence\track_49_dwell_danger_20260722_091420.jpg
+2026-07-22 09:14:21,57,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_57_line_crossing_20260722_091421.jpg
+2026-07-22 09:14:22,59,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_59_line_crossing_20260722_091422.jpg
+2026-07-22 09:14:22,61,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_61_line_crossing_20260722_091422.jpg
+2026-07-22 09:14:22,50,Dwell Danger,5.04,D:\Internship\Railway platform saftey monitoring\evidence\track_50_dwell_danger_20260722_091422.jpg
+2026-07-22 09:14:22,51,Dwell Danger,5.06,D:\Internship\Railway platform saftey monitoring\evidence\track_51_dwell_danger_20260722_091422.jpg
+2026-07-22 09:14:23,53,Dwell Danger,5.03,D:\Internship\Railway platform saftey monitoring\evidence\track_53_dwell_danger_20260722_091423.jpg
+2026-07-22 09:14:23,64,Line Crossing,0.0,D:\Internship\Railway platform saftey monitoring\evidence\track_64_line_crossing_20260722_091423.jpg
+2026-07-22 21:49:58,3,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_3_line_crossing_20260722_214958.jpg
+2026-07-22 21:49:58,5,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_5_line_crossing_20260722_214958.jpg
+2026-07-22 21:49:58,7,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_7_line_crossing_20260722_214958.jpg
+2026-07-22 21:49:59,8,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_line_crossing_20260722_214959.jpg
+2026-07-22 21:49:59,8,Safe Return,0.04,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_safe_return_20260722_214959.jpg
+2026-07-22 21:49:59,9,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_9_line_crossing_20260722_214959.jpg
+2026-07-22 21:50:00,8,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_line_crossing_20260722_215000.jpg
+2026-07-22 21:50:00,8,Safe Return,0.01,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_safe_return_20260722_215000.jpg
+2026-07-22 21:50:00,10,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_10_line_crossing_20260722_215000.jpg
+2026-07-22 21:50:00,10,Safe Return,0.73,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_10_safe_return_20260722_215000.jpg
+2026-07-22 21:50:00,8,Line Crossing,0.0,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_line_crossing_20260722_215000.jpg
+2026-07-22 21:50:00,8,Safe Return,0.06,D:\Internship\Uptoskills-output\Task149_RailwayPlatformSafetyMonitoring\Outputs\evidence\track_8_safe_return_20260722_215000.jpg

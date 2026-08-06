@@ -1,0 +1,6 @@
+{
+  "name": "RetailVision AI",
+  "description": "Retail Intelligence & Customer Behavior Analytics Platform featuring video tracking, zone heatmaps, customer journey mapping, AI insights, and store layout optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
