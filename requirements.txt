@@ -1,0 +1,37 @@
+# ==========================================
+# Smart Trash Can Monitoring System
+# Requirements
+# ==========================================
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLOv8
+ultralytics==8.4.92
+
+# Computer Vision
+opencv-python==4.10.0.84
+Pillow>=10.0.0
+
+# Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Web Interface
+gradio>=5.38.0
+
+# Utilities
+PyYAML>=6.0.1
+tqdm>=4.66.0
+requests>=2.32.0
+psutil>=6.0.0
+py-cpuinfo>=9.0.0
+huggingface-hub>=0.33.0
+
+# Video Processing
+ffmpeg-python>=0.2.0
