@@ -15,21 +15,3 @@ coverage/
 *.log
 .env*
 !.env.example
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# SAM 2 model checkpoint
-# SAM 2 model checkpoints
-Task168_ECommerce_Automated_Product_System/sam2/checkpoints/*.pt
-
-# Virtual environments
-.venv/
-venv/
-
-# Environment variables
-.env
-
-# Temporary files
-*.tmp
